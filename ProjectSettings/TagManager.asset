@@ -5,15 +5,19 @@ TagManager:
   serializedVersion: 3
   tags:
   - Weapon
+  - EnemyDamage
+  - Ammo
+  - Enemy
+  - Boss
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Darkness
+  - PostProcessing
   - 
   - 
   - 
