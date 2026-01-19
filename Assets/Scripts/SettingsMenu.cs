@@ -12,6 +12,7 @@ public class SettingsMenu : MonoBehaviour
             settingspanel.SetActive(false);
         }
     }
+    //test
 
     public void SetVolume(float volume)
     {
